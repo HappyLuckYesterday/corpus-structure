@@ -16,3 +16,6 @@ python compare_models.py
 >>The original model and the recovered model are identical.
 
 # Model Path
+https://drive.google.com/drive/folders/1ERuoqPDEuhPAhf7O0OgrgaBQuUl0mmsB?usp=sharing
+
+https://drive.google.com/drive/folders/1YBeMH9C_qfPUzBM_ZGe-U1gwmGP10s7L?usp=sharing
