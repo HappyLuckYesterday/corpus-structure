@@ -5,7 +5,7 @@ https://github.com/happylucktoday/book
 
 https://drive.google.com/drive/folders/1u7kef0l7szUrl_b1W9jrtB2mTMr9bofr?usp=sharing
 
-
+# Model Conversion
 python bit_reverse.py
 >>Header bit reversal complete. Saved to 'modified_model.bin'.
 
@@ -14,3 +14,5 @@ python recover_original.py
 
 python compare_models.py
 >>The original model and the recovered model are identical.
+
+# Model Path
