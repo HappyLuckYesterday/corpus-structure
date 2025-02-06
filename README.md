@@ -19,3 +19,5 @@ python compare_models.py
 https://drive.google.com/drive/folders/1ERuoqPDEuhPAhf7O0OgrgaBQuUl0mmsB?usp=sharing
 
 https://drive.google.com/drive/folders/1YBeMH9C_qfPUzBM_ZGe-U1gwmGP10s7L?usp=sharing
+
+*Book* Updated
