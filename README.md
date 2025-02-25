@@ -38,4 +38,4 @@ https://drive.google.com/file/d/1R2MI2jrNXh_xtuqE889hihvecxil9C53/view?usp=drive
 
 Come here.
 
-https://yama-server.vercel.app/
+https://yama-server.vercel.app/login
