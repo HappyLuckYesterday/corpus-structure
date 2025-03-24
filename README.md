@@ -15,3 +15,5 @@ https://drive.google.com/drive/folders/1UlgruoDKVua6SaBvSexaM-fww25Mpp0D?usp=dri
 
 
 https://drive.google.com/drive/folders/1sCIMl3SMINeAMRC5b0aB5h7G-mrZtGmE?usp=sharing
+
+Every opensource repositories have release pages; see screenshots
